@@ -23,7 +23,7 @@ analysis.R
 results/ _ t-test outpout
 
 ## Software
-R
-RStudio
-Python (planned)
-sciPy (planned)
+- R
+- RStudio
+- Python 
+- sciPy 
