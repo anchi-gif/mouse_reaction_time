@@ -1,0 +1,12 @@
+
+	Welch Two Sample t-test
+
+data:  reaction_time by group
+t = 5.4583, df = 7.8253, p-value = 0.00065
+alternative hypothesis: true difference in means between group control and group treatment is not equal to 0
+95 percent confidence interval:
+ 20.73154 51.26846
+sample estimates:
+  mean in group control mean in group treatment 
+                    351                     315 
+
